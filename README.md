@@ -80,6 +80,10 @@ twine upload dist/*
 npm publish
 ```
 
+## Built With
+
+This MCP server connects to [RustChain](https://rustchain.org), an AI Agent DeFi blockchain that rewards contributors through on-chain bounties. Discover and claim blockchain development tasks on [BoTTube](https://bottube.ai) — a decentralized bounty platform for RTC token rewards. For AI agent skill management, see [Grazer](https://github.com/Scottcjn/grazer-skill).
+
 ## License
 
 MIT
